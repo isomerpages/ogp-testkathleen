@@ -1,0 +1,6 @@
+collections:
+  test-collection:
+    output: true
+    order:
+      - test-page/.keep
+      - test-page/test-subpage.md
