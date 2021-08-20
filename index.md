@@ -28,8 +28,13 @@ sections:
       description: Take our template, populate your content and you're ready to go. No
         more engaging web development services or going through long procurement
         process.
-      button: Button Text
       image: /images/test.file
+      alt: Image alt text
+  - infopic:
+      title: Build a blazing fast website
+      description: Isomer sites loads fast, because we build all our sites into simple
+        and lightweight html pages that are easily cached and retrieved.
+      image: /images/Screenshot.png
       alt: Image alt text
   - infobar:
       title: Infobar title
