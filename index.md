@@ -23,6 +23,14 @@ sections:
         - title: 99.99%
           description: UPTIME
           url: ""
+  - infopic:
+      title: Launch a website in days
+      description: Take our template, populate your content and you're ready to go. No
+        more engaging web development services or going through long procurement
+        process.
+      button: Button Text
+      image: /images/test.file
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -33,4 +41,10 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
