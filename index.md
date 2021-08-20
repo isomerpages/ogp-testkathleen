@@ -36,20 +36,15 @@ sections:
         and lightweight html pages that are easily cached and retrieved.
       image: /images/Screenshot.png
       alt: Image alt text
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Secure and reliable
+      description: Isomer enforces strict security policies and actively monitor the
+        uptime your sites around the clock. So sit back, relax and focus on your
+        site content.
+      alt: Image alt text
+      image: /images/newscreenshot.png
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
