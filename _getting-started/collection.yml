@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - test-page/.keep
-      - test-page/test-subpage.md
+      - test-page/about.md
       - test-page/get-onboard.md
