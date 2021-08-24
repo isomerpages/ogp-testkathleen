@@ -4,4 +4,4 @@ collections:
     order:
       - test-page/.keep
       - test-page/test-subpage.md
-      - test-page/onboard.md
+      - test-page/get-onboard.md
