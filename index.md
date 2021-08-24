@@ -43,6 +43,10 @@ sections:
         site content.
       alt: Image alt text
       image: /images/newscreenshot.png
+  - infobar:
+      title: Ready to get on board?
+      button: Start Here
+      url: /getstarted
   - resources:
       title: Media
       subtitle: Learn more
