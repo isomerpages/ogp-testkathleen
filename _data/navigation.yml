@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Get Started
-    collection: test-collection
+  - title: Getting Started
+    collection: getting-started
   - title: Our users
     url: /permalink
   - title: FAQ
