@@ -1,5 +1,5 @@
 collections:
-  test-collection:
+  getting-started:
     output: true
     order:
       - test-page/.keep
