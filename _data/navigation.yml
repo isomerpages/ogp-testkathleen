@@ -2,9 +2,13 @@ logo: /images/isomer-logo.svg
 links:
   - title: Get Started
     collection: test-collection
-  - title: Test Collection
-    collection: test-collection
+  - title: Our users
+    url: /permalink
+  - title: FAQ
+    url: /permalink
   - title: Resources
     resource_room: true
+  - title: Guide
+    url: https://guide.isomer.gov.sg/
   - title: Contact Us
     url: /contact-us/
