@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: dirty
-description: An Isomer site of the Singapore Government
+title: this hsould be clean
+description: something
 image: /images/test.file
 permalink: /
 notification: We've recently launched IsomerCMS to make it easy for users to
@@ -52,6 +52,7 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
 
 
