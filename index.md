@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: asdfasdfasdf
+title: something
 description: An Isomer site of the Singapore Government
-image: /images/hero-banner.png
+image: /images/test.file
 permalink: /
 notification: We've recently launched IsomerCMS to make it easy for users to
   edit their site. Find out more about the CMS in our guide!
@@ -52,6 +52,7 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
 
 
