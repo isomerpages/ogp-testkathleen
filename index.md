@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: sdfg
 description: An Isomer site of the Singapore Government
 image: /images/Screenshot.png
 permalink: /
@@ -52,6 +52,7 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
 
 
