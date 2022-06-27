@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: this hsould be clean
-description: something
+description: somethingasdfasdfasdf
 image: /images/hero-banner.png
 permalink: /
 notification: We've recently launched IsomerCMS to make it easy for users to
@@ -52,6 +52,7 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
 
 
