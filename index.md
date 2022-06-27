@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: asdcƒ;;;;;l;
+title: changed
 description: somethingasdfasdfasdfasdfasdfasdff
 image: /images/hero-banner.png
 permalink: /
@@ -52,6 +52,7 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
 
 
