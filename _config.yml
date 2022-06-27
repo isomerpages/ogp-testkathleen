@@ -2,7 +2,7 @@ title: this hsould be clean
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f30505"
+  primary-color: "#ffffff"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -53,7 +53,7 @@ plugins:
 staging: https://ogp-testkathleen-staging.netlify.app
 prod: https://ogp-testkathleen-prod.netlify.app
 shareicon: /images/hero-banner.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
