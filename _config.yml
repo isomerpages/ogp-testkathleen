@@ -1,8 +1,8 @@
-title: dirty
+title: this hsould be clean
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#000000"
+  primary-color: "#dd0a0a"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: resources
-description: An Isomer site of the Singapore Government
+description: something
 permalink: none
 baseurl: ""
 exclude:
