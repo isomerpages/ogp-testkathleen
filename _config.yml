@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-testkathleen-staging.netlify.app
 prod: https://ogp-testkathleen-prod.netlify.app
-shareicon: /images/test.file
+shareicon: /images/Screenshot.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
